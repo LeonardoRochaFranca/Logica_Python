@@ -178,15 +178,16 @@ sair do programa.<br>
 que o segundo), calcule e mostre a soma dos números inteiros entre eles.<br>
 7. Faça um programa que dados dois números inteiros positivos (considere o primeiro maior
 que o segundo), calcule e mostre a quantidade de números divisíveis por 7 entre eles.<br>
-8. Faça um programa que receba a quantidade de alunos de uma turma, calcule e mostre:
-a. a média aritmética das duas notas de cada aluno,
-b. a mensagem que está na tabela a seguir:
+8. Faça um programa que receba a quantidade de alunos de uma turma, calcule e mostre:<br>
+a. a média aritmética das duas notas de cada aluno<br>
+b. a mensagem que está na tabela a seguir:<br>
 <table>
  <tr><td>Média aritmética</td> <td>Mensagem</td></tr>
 <tr><td>Até 2</td> <td>Reprovado</td></tr>
 <tr><td>Entre 2 e 7</td> <td>Prova final</td></tr>
 <tr><td>De 7 para cima</td> <td>Aprovado</td></tr>
 </table>
+
 c. O total da alunos aprovados<br>
 d. O total de alunos que vão para prova final<br>
 e. O total de alunos reprovados<br>
