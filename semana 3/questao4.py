@@ -1,0 +1,5 @@
+salario = float(input())
+percentualAumento = int(input())
+aumento = salario * (percentualAumento/100)
+print(f"O valor acrescido foi de: {aumento:.2f}")
+print(f"O novo salário é de: {aumento + salario:.2f}")
