@@ -1,7 +1,7 @@
 # Logica_With_Python
 Atividades de lógica de programação com a linguagem python
 
-<strong>Semana 3 - Exercícios<strong>
+<strong>Semana 3 - Exercícios</strong>
 
 1. Faça um programa que peça dois números inteiros e faça as 4 operações básicas da
 matemática: adição, subtração, multiplicação e divisão (DICA: considere que o usuário nunca
