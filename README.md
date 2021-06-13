@@ -144,7 +144,20 @@ de códigos a seguir para obter o preço de cada produto.
 Seu programa deve exibir o total de compras depois que o usuário digitar 0. Qualquer outro código
 deve gerar a mensagem de erro “Código inválido”.
   
+  <strong>Atividade Extra 1</strong>
+1. Faça um programa que receba dois números, calcule e mostre a média ponderada das duas
+notas, considerando peso 4 para a primeira nota e peso 6 para a segunda nota.
+2. Faça um programa que calcule o preço de um produto (em R$) e o desconto que ele recebeu
+em uma promoção (em %). Mostre o novo preço do produto com o desconto.
+3. Sabe-se que para iluminar de maneira correta os cômodos de uma casa, para cada m2 deve-
+se usar 18W de potência. Faça um programa que receba as duas dimensões de um cômodo
+(considere que o cômodo é sempre um retângulo e que as dimensões estão em metros),
+calcule e mostre a sua área (em m2) e a potência de iluminação que deverá ser utilizada.
+4. Faça um programa que receba a medida de dois ângulos de um triângulo, calcule e mostre a
+medida do terceiro ângulo. Sabe-se que a soma dos ângulos de um triângulo é 180 graus.
+  
   <strong>Atividade Extra 2</strong>
+  
 1. Faça um programa que dado o número do mês do ano, ele exiba o nome do mês por extenso.
 2. Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário,
 acrescido de bonificação e auxílio escola.
