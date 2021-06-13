@@ -169,16 +169,15 @@ a seguir, verifique e mostre a classificação dessa pessoa.
 4. Escreva um programa para aprovar o empréstimo bancário para compra de uma casa. O
 programa deve perguntar o valor da casa a comprar, o salário e a quantidade de anos a pagar.
 O valor da prestação mensal não pode ser superior a 30% do salário. Calcule o valor da
-prestação como sendo o valor da casa a comprar dividido pelo número de meses a pagar.
+prestação como sendo o valor da casa a comprar dividido pelo número de meses a pagar.<br>
 5. Faça um programa que recebe dois números e escolhe a realização de uma das quatro
 operações matemáticas (digite 1 para adição, digite 2 para subtração, digite 3 para
 multiplicação e digite 4 para divisão) repetidamente até que o usuário digite a opção zero para
-sair do programa.
+sair do programa.<br>
 6. Faça um programa que dados dois números inteiros positivos (considere o primeiro maior
-que o segundo), calcule e mostre a soma dos números inteiros entre eles.
+que o segundo), calcule e mostre a soma dos números inteiros entre eles.<br>
 7. Faça um programa que dados dois números inteiros positivos (considere o primeiro maior
-que o segundo), calcule e mostre a quantidade de números divisíveis por 7 entre eles.
-
+que o segundo), calcule e mostre a quantidade de números divisíveis por 7 entre eles.<br>
 8. Faça um programa que receba a quantidade de alunos de uma turma, calcule e mostre:
 a. a média aritmética das duas notas de cada aluno,
 b. a mensagem que está na tabela a seguir:
@@ -188,7 +187,7 @@ b. a mensagem que está na tabela a seguir:
 <tr><td>Entre 2 e 7</td> <td>Prova final</td></tr>
 <tr><td>De 7 para cima</td> <td>Aprovado</td></tr>
 </table>
-c. O total da alunos aprovados
-d. O total de alunos que vão para prova final
-e. O total de alunos reprovados
-f. A média geral da classe
+c. O total da alunos aprovados<br>
+d. O total de alunos que vão para prova final<br>
+e. O total de alunos reprovados<br>
+f. A média geral da classe<br>
