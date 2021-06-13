@@ -76,20 +76,39 @@ estão na tabela abaixo:
 2. Um supermercado deseja reajustar os preços de seus produtos usando o seguinte critério: o
 produto poderá ter seu preço aumentado ou diminuído. Para o preço ser alterado, o
 produto deve preencher pelo menos um dos requisitos a seguir:
-Venda média mensal Preço atual % de aumento % de diminuição
-< 500 < R$ 30,00 10 -
->= 500 e < 1200 >= R$ 30,00 e < R$
-80,00
-
-15 -
-
->= 1200 >= R$ 80,00 - 20
-
+<table>
+  <tr>
+    <td>Venda média mensal</td> 
+    <td>Preço atual</td> 
+    <td>% de aumento</td> 
+    <td>% de diminuição</td>
+  </tr>
+  <tr>
+    <td>< 500</td>
+    <td>< R$ 30,00</td> 
+    <td>10</td> 
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>>= 500 e < 1200</td> 
+    <td>>= R$ 30,00 e < R$ 80,00</td>
+    <td>15</td> 
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>>= 1200</td>
+    <td>>= R$ 80,00</td>
+    <td>-</td> 
+    <td>20</td>
+  </tr>
+<table>
 3. O preço de um carro novo ao consumidor é a soma do custo de fábrica com a porcentagem
 do distribuidor e com os impostos, ambos aplicados ao custo de fábrica. As porcentagens
 encontram-se na tabela a seguir. Faça um programa que receba o custo de fábrica de um
 carro e mostre o preço ao consumidor.
-Custo de fábrica % do distribuidor % dos impostos
-Até R$ 20 mil 5 isento
-Entre R$ 20 mil e R$ 30 mil 10 15
-Acima de R$ 30 mil 15 20
+<table>
+  <tr><td>Custo de fábrica</td> <td>% do distribuidor</td> <td>% dos impostos</td></tr>
+  <tr><td>Até R$ 20 mil</td> <td>5</td> <td>isento</td></tr>
+  <tr><td>Entre R$ 20 mil e R$ 30 mil</td> <td>10</td> <td>15</td></tr>
+  <tr><td>Acima de R$ 30 mil</td> <td>15</td> <td>20</td></tr>
+<table>
