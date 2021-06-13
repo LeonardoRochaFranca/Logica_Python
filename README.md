@@ -112,3 +112,83 @@ carro e mostre o preço ao consumidor.
   <tr><td>Entre R$ 20 mil e R$ 30 mil</td> <td>10</td> <td>15</td></tr>
   <tr><td>Acima de R$ 30 mil</td> <td>15</td> <td>20</td></tr>
 <table>
+
+  <strong>Semana 6 - Exercícios</strong>
+  
+1. Faça um programa que exiba os números inteiros de 1 a 100.
+2. Faça um programa que exiba os números inteiros de 50 a 100.
+3. Faça um programa para escrever a contagem regressiva do lançamento de um foguete. O
+programa deve imprimir 10, 9, 8, ..., 1. 0 e Fogo! Na tela.
+4. Faça um programa para imprimir os números ímpares de 1 até o número digitado pelo
+usuário.
+5. Escreva um programa que pergunte o depósito inicial e a taxa de juros de uma poupança.
+Exiba os valores mês a mês para os primeiros meses. Escreva o total de ganho com juros no
+período.
+6. Escreva um programa que pergunte o valor inicial de uma dívida e o juro mensal. Pergunte
+também o valor mensal que será pago. Imprima o número de meses para que a dívida seja
+paga, o total pago e o total de juros pago.
+7. Escreva um programa que leia números inteiros do teclado. O programa deve ler os
+números até que o usuário digite 0 (zero). No final da execução, exiba a quantidade de
+números digitados, assim como a soma e a média aritmética.
+8. Escreva um programa para controlar uma pequena máquina registradora. Você deve
+solicitar ao usuário que digite o código do produto e a quantidade comprada. Utilize a tabela
+de códigos a seguir para obter o preço de cada produto.
+<table>
+  <tr><td>Código</td> <td>Preço</td></tr>
+  <tr><td>1</td> <td>R$ 5,00</td></tr>
+  <tr><td>2</td> <td>R$ 8,00</td></tr>
+  <tr><td>3 R$</td> <td>10,00</td></tr>
+  <tr><td>5</td> <td>R$ 13,00</td></tr>
+  <tr>9</td> <td>R$ 16,00</td></tr>
+</table>
+Seu programa deve exibir o total de compras depois que o usuário digitar 0. Qualquer outro código
+deve gerar a mensagem de erro “Código inválido”.
+  
+  <strong>Atividade Extra 2</strong>
+1. Faça um programa que dado o número do mês do ano, ele exiba o nome do mês por extenso.
+2. Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário,
+acrescido de bonificação e auxílio escola.
+<table>
+  <tr><td>Salário</td> <td>Bonificação</td></tr>
+  <tr><td>Até R$ 500,00</td> <td>5% do salário</td></tr>
+  <tr><td>Entre R$ 500,00 e R$ 1200,00</td> <td>12% do salário</td></tr>
+  <tr><td>Acima de R$ 1200,00</td> <td>Sem bonificação</td></tr>
+  <tr><td>Salário</td> <td>Auxílio escola</td></tr>
+  <tr><td>Até R$ 600,00</td> <td>R$ 150,00</td></tr>
+  <tr><td>Mais do que R$ 600,00</td> <td>R$ 100,00</td></tr>
+<table>
+3. Faça um programa que receba a altura e o peso de uma certa pessoa. De acordo com a tabela
+a seguir, verifique e mostre a classificação dessa pessoa.
+<table>  
+  <tr><td rowspan="2">Altura</td> <td>Peso</td></tr>
+  <tr><td>Até 60</td> <td>Entre 60 e 90(inclusive)</td><td>Acima de 90</td></tr>
+  <tr><td>Menores de 1,20</td><td>A</td><td>D</td><td>G</td></tr>
+  <tr><td>De 1,20 a 1,70</td><td>B</td><td>E</td><td>H</td></tr>
+  <tr><td>Maiores que 1,70</td><td>C</td><td>F</td><td>I</td></tr>
+</table>
+4. Escreva um programa para aprovar o empréstimo bancário para compra de uma casa. O
+programa deve perguntar o valor da casa a comprar, o salário e a quantidade de anos a pagar.
+O valor da prestação mensal não pode ser superior a 30% do salário. Calcule o valor da
+prestação como sendo o valor da casa a comprar dividido pelo número de meses a pagar.
+5. Faça um programa que recebe dois números e escolhe a realização de uma das quatro
+operações matemáticas (digite 1 para adição, digite 2 para subtração, digite 3 para
+multiplicação e digite 4 para divisão) repetidamente até que o usuário digite a opção zero para
+sair do programa.
+6. Faça um programa que dados dois números inteiros positivos (considere o primeiro maior
+que o segundo), calcule e mostre a soma dos números inteiros entre eles.
+7. Faça um programa que dados dois números inteiros positivos (considere o primeiro maior
+que o segundo), calcule e mostre a quantidade de números divisíveis por 7 entre eles.
+
+8. Faça um programa que receba a quantidade de alunos de uma turma, calcule e mostre:
+a. a média aritmética das duas notas de cada aluno,
+b. a mensagem que está na tabela a seguir:
+<table>
+  <tr><td>Média aritmética</td> <td>Mensagem</td></tr>
+<tr><td>Até 2</td> <td>Reprovado</td></tr>
+<tr><td>Entre 2 e 7</td> <td>Prova final</td></tr>
+<tr><td>De 7 para cima</td> <td>Aprovado</td></tr>
+</table>
+c. O total da alunos aprovados
+d. O total de alunos que vão para prova final
+e. O total de alunos reprovados
+f. A média geral da classe
