@@ -137,7 +137,7 @@ de códigos a seguir para obter o preço de cada produto.
   <tr><td>Código</td> <td>Preço</td></tr>
   <tr><td>1</td> <td>R$ 5,00</td></tr>
   <tr><td>2</td> <td>R$ 8,00</td></tr>
-  <tr><td>3 R$</td> <td>10,00</td></tr>
+  <tr><td>3</td> <td>R$ 10,00</td></tr>
   <tr><td>5</td> <td>R$ 13,00</td></tr>
   <tr><td>9</td> <td>R$ 16,00</td></tr>
 </table>
@@ -160,7 +160,7 @@ acrescido de bonificação e auxílio escola.
 3. Faça um programa que receba a altura e o peso de uma certa pessoa. De acordo com a tabela
 a seguir, verifique e mostre a classificação dessa pessoa.
 <table>  
-  <tr><td rowspan="2">Altura</td> <td colspan="3">Peso</td></tr>
+  <tr><td rowspan="2">Altura</td> <td colspan="3" align="center">Peso</td></tr>
   <tr><td>Até 60</td> <td>Entre 60 e 90(inclusive)</td><td>Acima de 90</td></tr>
   <tr><td>Menores de 1,20</td><td>A</td><td>D</td><td>G</td></tr>
   <tr><td>De 1,20 a 1,70</td><td>B</td><td>E</td><td>H</td></tr>
